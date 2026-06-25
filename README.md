@@ -1,8 +1,6 @@
 # 💰 Financial Budget Allocation Dashboard
-
 An interactive Business Intelligence Dashboard built using Streamlit, Pandas, and Plotly for analyzing financial budget allocation, utilization, revenue trends, and departmental performance.
 
----
 
 ## 🚀 Features
 
