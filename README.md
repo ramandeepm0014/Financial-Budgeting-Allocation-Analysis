@@ -99,6 +99,16 @@ This dashboard helps users:
 - Identify spending trends and patterns.
 - Support data-driven financial decision-making.
 
+<img width="1913" height="700" alt="image" src="https://github.com/user-attachments/assets/0ab8d01c-445d-4b68-8a2a-e31692754d2d" />
+
+<img width="1289" height="749" alt="image" src="https://github.com/user-attachments/assets/2f882a8e-d7c7-489e-8841-524a711dc4aa" />
+
+<img width="1619" height="804" alt="image" src="https://github.com/user-attachments/assets/507d8a57-2644-4354-904e-eaf911980b73" />
+
+<img width="1724" height="808" alt="image" src="https://github.com/user-attachments/assets/c063f9c7-8fc2-450f-9aeb-fe7282f84c85" />
+
+<img width="1724" height="787" alt="image" src="https://github.com/user-attachments/assets/19bf6c42-2bbc-499d-9f99-2737714c1c6d" />
+
 
 ## 🌟 Key Highlights
 
