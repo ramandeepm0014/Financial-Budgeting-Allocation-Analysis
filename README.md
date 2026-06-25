@@ -45,6 +45,7 @@ An interactive Business Intelligence Dashboard built using Streamlit, Pandas, an
 - Pandas
 - Plotly
 - NumPy
+- openpyxl
 
 
 ## 📂 Project Structure
@@ -82,7 +83,7 @@ pip install -r requirements.txt
 ### Run Application
 
 ```bash
-streamlit run app.py
+python -m streamlit run app.py
 ```
 
 ---
