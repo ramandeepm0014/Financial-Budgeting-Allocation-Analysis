@@ -37,7 +37,6 @@ An interactive Business Intelligence Dashboard built using Streamlit, Pandas, an
 - Dynamic Filtering
 - Real-time Dashboard Updates
 
----
 
 ## 🛠 Technologies Used
 
@@ -47,20 +46,18 @@ An interactive Business Intelligence Dashboard built using Streamlit, Pandas, an
 - Plotly
 - NumPy
 
----
 
 ## 📂 Project Structure
 
-```
+
 Financial-Budget-Allocation-Dashboard/
 │
 ├── app.py
 ├── Financial_Budgeting_Dataset.csv
 ├── requirements.txt
 └── README.md
-```
 
----
+
 
 ## ⚙ Installation
 
@@ -101,7 +98,6 @@ This dashboard helps users:
 - Identify spending trends and patterns.
 - Support data-driven financial decision-making.
 
----
 
 ## 🌟 Key Highlights
 
@@ -117,10 +113,7 @@ This dashboard helps users:
 
 ✔ Fully Responsive Layout
 
----
 
-## 👨‍💻 Developed By
+## 👨‍💻 Author
 
-Ramandeep Kaur
-
-Financial Budget Allocation Dashboard Project using Streamlit and Plotly.
+*Ramandeep Kaur*
